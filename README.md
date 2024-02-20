@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Avin Joshy
-- 👀 I’m interested in Fullstack development
+- 👀 I love Web Development
+- Mastering MERN Stack
 <!--- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --->
