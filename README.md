@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamarobot2&label=Profile%20views&color=28e22b&style=flat" alt="iamarobot2" /> </p>
 
-- 🔭 I’m currently working on [One Health](https://onehealth-two.vercel.app/home)
+- 🔭 I’m currently working on [One Health](https://onehealth-two.vercel.app)
 
 - 🌱 I’m currently learning **Next.js, Typescript, Artficial Intelligence and Machine Learning**
 
