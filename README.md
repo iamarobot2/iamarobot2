@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamarobot2&label=Profile%20views&color=28e22b&style=flat" alt="iamarobot2" /> </p>
 
-- 🔭 I’m currently working on [One Health](https://onehealth-two.vercel.app)
+- 🔭 I’m currently working on [Archon]
 
-- 🌱 I’m currently learning **Next.js, Typescript, Artficial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Artficial Intelligence and Machine Learning**
 
-- 🤝 I’m looking for help with **One Health**
+- 🤝 I’m looking for help with **Archon**
 
-- 💬 Ask me about **reacts.js, express.js, RESTful API, YOLO, neural networks**
+- 💬 Ask me about **reacts.js, express.js, RESTful API, YOLO, neural networks, CI/CD Pipelines**
 
 - 📫 How to reach me **avinjoshy@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ef14Sgb7OoGWZkueuYZMtqEtb-RtXgJK/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P2NgSu54ul4o9f8_fWtGZoP5Wm6XiIFL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
